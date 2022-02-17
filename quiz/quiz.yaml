@@ -1,0 +1,100 @@
+"What is the full name of Sachin Tendulkar ?":
+        "Sachin Ramya Tendulkar":
+                - False
+        "Sachin Ramesh Tendulkar":
+                - True
+        "Sachin Tendehar":
+                - False
+        " Sachin 10dulkar":
+                - False
+
+"What is Sachin Tendulkar's birth place ?":
+        "Chennai":
+                - False
+        "Bombay":
+                - True
+        "Delhi":
+                - False
+        "Gurgaon":
+                - False
+
+"How many Siblings does Sachin have ?":
+        "3":
+                - True
+        "2":
+                - False
+        "1":
+                - False
+        "4":
+                - False
+
+"Sachin Tendulkar captained India for how many matches (Test + ODI) ?":
+        "101":
+                - False
+        "98":
+                - True
+        "96":
+                - False
+        "66":
+                - False
+
+"Where does Sachin live ?":
+        "Andheri":
+                - False
+        "Malad":
+                - False
+        "Bandra":
+                - True
+        "Worli":
+                - False
+
+"By how many years is Anjali older than Sachin ?":
+        "2":
+                - False
+        "3":
+                - False
+        "6":
+                - True
+        "5":
+                - False
+
+"Against which country did Sachin make his ODI debut ?":
+        "England":
+                - False
+        "New Zealand":
+                - False
+        "Australia":
+                - False
+        "Pakistan":
+                - True
+
+"Where did Sachin score his first test century ?":
+        "Old Trafford":
+                - True
+        "The Oval":
+                - False
+        "Eden Gardens":
+                - False
+        "Lords":
+                - True
+
+"In which year was Sachin born ?":
+        "1975":
+                - False
+        "1973":
+                - True
+        "1974":
+                - False
+        "1972":
+                - False
+
+"When was Sachin's Autobiography released ?":
+        "2012":
+                - False
+        "2014":
+                - True
+        "2016":
+                - False
+        "2015":
+                - False
+
