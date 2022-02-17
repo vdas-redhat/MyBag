@@ -1,5 +1,5 @@
-import tkinter
-from tkinter import *
+import Tkinter
+from Tkinter import *
 import yaml
 # This is just for the jpg image in pop up box
 #from PIL import ImageTk, Image
@@ -13,7 +13,7 @@ offwhite = "#e3e3e3"
 
 filepath = "quiz.yaml"
 
-tk = tkinter.Tk()
+tk = Tkinter.Tk()
 tk.title("Kaun Banega Gamer")
 tk.geometry("800x600")
 
@@ -30,7 +30,7 @@ def yaml_loader(filepath):
 
 def popup(msg):
     global pop,happy
-    pop = tkinter.Tk()
+    pop = Tkinter.Tk()
     pop.geometry("200x200")
     #pop.config(background='red')
     pop.title("Data")
@@ -64,7 +64,7 @@ def selected():
             msg = "TRY AGAIN"
             popup(msg)
     else:
-        print ("Mid way")
+        print "Mid way"
 
 def start():
     labelimage.destroy()
